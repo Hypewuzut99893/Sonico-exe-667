@@ -1,0 +1,119 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [
+				0,
+				0,
+				0,
+				1,
+				2,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				3,
+				2,
+				1,
+				0,
+				0,
+				0,
+				0
+			],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				-15
+			],
+			"anim": "singLEFT",
+			"fps": 18,
+			"name": "left",
+			"indices": [
+				0,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 18,
+			"name": "down",
+			"indices": [
+				0,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				70
+			],
+			"anim": "singUP",
+			"fps": 18,
+			"name": "up",
+			"indices": [
+				0,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 18,
+			"name": "right",
+			"indices": [
+				0,
+				0,
+				1,
+				1
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lua",
+	"position": [
+		-50,
+		-200
+	],
+	"healthicon": "lua",
+	"flip_x": false,
+	"healthbar_colors": [
+		89,
+		89,
+		89
+	],
+	"camera_position": [
+		50,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

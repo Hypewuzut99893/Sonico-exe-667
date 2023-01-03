@@ -1,0 +1,109 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-125
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				1,
+				1
+			],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				125
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				1,
+				1
+			],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-125,
+				-25
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				1,
+				1
+			],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-25
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "left",
+			"indices": [
+				0,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				30,
+				0
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": "shake"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blurTBB",
+	"position": [
+		40,
+		-200
+	],
+	"healthicon": "blur2",
+	"flip_x": false,
+	"healthbar_colors": [
+		9,
+		49,
+		222
+	],
+	"camera_position": [
+		-140,
+		185
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
