@@ -1,0 +1,5 @@
+Flashes the camera
+
+Value 1: How long it lasts for
+Value 2: Whether or not to bypass Flashing Lights toggle
+	(true or false)

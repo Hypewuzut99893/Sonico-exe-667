@@ -1,0 +1,6 @@
+Activates the stating mechanic in THE BLUE BLUR. 
+
+Value 1 = how many beats you have to press space 5 times
+
+Value 2 = should it only appear on amped? (true makes it so, anything else makes it on default and amped)
+	

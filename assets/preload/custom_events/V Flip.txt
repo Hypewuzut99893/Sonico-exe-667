@@ -1,0 +1,3 @@
+flips the flip in Flipped
+
+value 1 = how long it should take to flip the flip in Flipped

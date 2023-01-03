@@ -1,0 +1,1 @@
+value 1 = character to focus on
